@@ -1,0 +1,27 @@
+{
+  "name": "cashback",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximUsa/home-work1.git"
+  },
+  "author": "Maxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximUsa/home-work1/issues"
+  },
+  "homepage": "https://github.com/MaximUsa/home-work1#readme",
+  "devDependencies": {
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.0"
+  }
+}

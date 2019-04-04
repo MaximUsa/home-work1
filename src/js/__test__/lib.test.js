@@ -1,6 +1,6 @@
 import {cashBackCalc} from "../lib.js";
 
-test('calculate cash', () => {
+test('testing cash back calculator', () => {
     const normal = 100;
     const regular = 200;
     const maximal = 300;
